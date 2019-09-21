@@ -1,0 +1,17 @@
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.deps.json
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.runtimeconfig.json
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.runtimeconfig.dev.json
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.pdb
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csprojAssemblyReference.cache
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.AssemblyInfoInputs.cache
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.AssemblyInfo.cs
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.pdb
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.dll
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.pdb
+C:\Users\steph\desktop\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csproj.CopyComplete

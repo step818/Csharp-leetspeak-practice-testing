@@ -1662,6 +1662,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "LeetSpeak/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/LeetSpeak.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeetSpeak.dll": {}
+        }
       }
     }
   },
@@ -5800,10 +5810,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "LeetSpeak/1.0.0": {
+      "type": "project",
+      "path": "../LeetSpeak/LeetSpeak.csproj",
+      "msbuildProject": "../LeetSpeak/LeetSpeak.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "LeetSpeak >= 1.0.0",
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
@@ -5837,7 +5853,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
+              "projectPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
