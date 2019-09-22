@@ -10,7 +10,13 @@ namespace LeetSpeak.Tests
     public void Dyslexia_MixAllBut0Last_Str()
     {
       Jumble testJumble = new Jumble();
-        Assert.AreEqual("Spehetn", testJumble.Dyslexia("Stephen"));
+        Assert.AreEqual("hateve orl ", testJumble.Dyslexia("Whatever world"));
+    }
+    [TestMethod]
+    public void Dyslexia_SimpleLogic_Str()
+    {
+      Jumble testJumble = new Jumble();
+      Assert.AreEqual("tephe ", testJumble.Dyslexia("Stephen"));
     }
   }
 }

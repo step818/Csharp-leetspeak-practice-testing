@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {}
+    "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
+    "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
         "projectName": "LeetSpeak",
-        "projectPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
+        "projectPath": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\obj\\",
+        "outputPath": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

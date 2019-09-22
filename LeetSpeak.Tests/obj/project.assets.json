@@ -5833,11 +5833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\LeetSpeak.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\LeetSpeak.Tests.csproj",
       "projectName": "LeetSpeak.Tests",
-      "projectPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\LeetSpeak.Tests.csproj",
+      "projectPath": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\LeetSpeak.Tests.csproj",
       "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\obj\\",
+      "outputPath": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5854,8 +5854,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
-              "projectPath": "C:\\Users\\steph\\desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj"
+            "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
+              "projectPath": "C:\\Users\\steph\\Desktop\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj"
             }
           }
         }
