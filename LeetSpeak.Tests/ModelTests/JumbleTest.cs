@@ -18,5 +18,11 @@ namespace LeetSpeak.Tests
       Jumble testJumble = new Jumble();
       Assert.AreEqual("Sehtepn", testJumble.Dyslexia("Stephen"));
     }
+    [TestMethod]
+    public void Dyslexia_SimpleLogic2_Str()
+    {
+      Jumble testJumble = new Jumble();
+      Assert.AreEqual("Kneau", testJumble.Dyslexia("Keanu"));
+    }
   }
 }
